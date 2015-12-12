@@ -10,6 +10,10 @@ browser based solution to play with littleBits modules - http://littlebits.cc
 
 not yet available
 
+## roadmap
+
+issue #1 - list of features to implement. you can add your ideea too !
+
 ## contact
 
 twitter: [@tbdr](https://twitter.com/tbdr) | site: [plugins.ro](http://plugins.ro)
