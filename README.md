@@ -1,6 +1,6 @@
 # lbsim - littleBits simulator
 
-![Screenshot](https://pbs.twimg.com/media/CV36pm5XAAEiBki.jpg "v0.0.1 screenshot")
+![Screenshot](screenshot.png?raw=true)
 
 ## purpose
 
