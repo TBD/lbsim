@@ -12,7 +12,8 @@ not yet available
 
 ## roadmap
 
-issue #1 - list of features to implement. you can add your ideea too !
+issue [#1](/../../issues/1) - list of features to implement. you can add your ideea too !
+
 
 ## contact
 
