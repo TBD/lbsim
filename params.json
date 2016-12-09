@@ -1,0 +1,6 @@
+{
+  "name": "Lbsim",
+  "tagline": "littleBits simulator",
+  "body": "# lbsim - littleBits simulator\r\n\r\n## purpose\r\n\r\nbrowser based solution to play with littleBits modules - http://littlebits.cc\r\n\r\n## demo\r\n\r\nnot yet available\r\n\r\n## roadmap\r\n\r\nissue [#1](/../../issues/1) - list of features to implement. you can add your ideea too !\r\n\r\n\r\n## contact\r\n\r\ntwitter: [@tbdr](https://twitter.com/tbdr) | site: [plugins.ro](http://plugins.ro)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
